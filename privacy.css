@@ -1,0 +1,13 @@
+.cookie-container {
+  font-size: large;
+  color: white;
+  margin-bottom: 10px;
+  background-color: rgb(65, 63, 63);
+  padding: 10px;
+  position: sticky;
+  top: 0.5px;
+}
+
+.cookie-container a {
+  color: grey;
+}
