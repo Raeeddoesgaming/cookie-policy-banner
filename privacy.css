@@ -1,4 +1,5 @@
 .cookie-container {
+  font-family: Arial, Helvetica, sans-serif;
   font-size: large;
   color: white;
   margin-bottom: 10px;
@@ -10,4 +11,12 @@
 
 .cookie-container a {
   color: grey;
+}
+
+.button-privacy {
+  background-color: rgba(37, 119, 185, 0.616);
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px;
+  font-size: 18px;
 }
